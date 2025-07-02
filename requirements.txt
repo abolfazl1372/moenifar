@@ -1,0 +1,8 @@
+# Requirements for Line Speed Control Simulator
+# نیازمندی‌های شبیه‌ساز کنترل سرعت خط
+
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Note: tkinter is included with Python by default
+# نکته: tkinter به صورت پیش‌فرض با Python نصب می‌شود
